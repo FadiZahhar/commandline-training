@@ -44,20 +44,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 3. Checks
+## 3. Tools of the Terminal Trade
 
-### 1 Checks and Asserts
-<iframe src="https://player.vimeo.com/video/658729808" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Connecting programs
+<iframe src="https://player.vimeo.com/video/658717694" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Multiple Checks
-<iframe src="https://player.vimeo.com/video/658730211" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 echo & cat
+<iframe src="https://player.vimeo.com/video/658717887" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Error Rate
-<iframe src="https://player.vimeo.com/video/658730948" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 grep searching
+<iframe src="https://player.vimeo.com/video/658717937" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Recap Checks
-<iframe src="https://player.vimeo.com/video/658731715" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 head tail less
+<iframe src="https://player.vimeo.com/video/658718014" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### 5 sort  uniq
+<iframe src="https://player.vimeo.com/video/658718175" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
