@@ -24,28 +24,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 2. Design K6 Performance Test 
+## 2. Install all the things
 
-### 1 Write Load Test Case in JavaScript
-<iframe src="https://player.vimeo.com/video/658728788" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Running applications
+<iframe src="https://player.vimeo.com/video/658717055" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Random Shots
-<iframe src="https://player.vimeo.com/video/658728899" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 brew install fun
+<iframe src="https://player.vimeo.com/video/658717150" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Load Virtual Users
-<iframe src="https://player.vimeo.com/video/658728946" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 gem install
+<iframe src="https://player.vimeo.com/video/658717313" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Configure Virtual Users
-<iframe src="https://player.vimeo.com/video/658729159" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 npm install --global
+<iframe src="https://player.vimeo.com/video/658717418" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Ramp-up Ramp-down User Load
-<iframe src="https://player.vimeo.com/video/658729340" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Which is best
+<iframe src="https://player.vimeo.com/video/658717628" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 Random Shots Rampup
-<iframe src="https://player.vimeo.com/video/658729636" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 7 Recap Virtual Users
-<iframe src="https://player.vimeo.com/video/658729751" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
