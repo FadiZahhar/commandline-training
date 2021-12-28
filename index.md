@@ -82,22 +82,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 5. Performance Test Metrics
+## 5. Making the shell your own
 
-### 1 Built-in Metrics
-<iframe src="https://player.vimeo.com/video/658733594" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Owning your terminal
+<iframe src="https://player.vimeo.com/video/658719251" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Design Counter
-<iframe src="https://player.vimeo.com/video/658733904" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Fish
+<iframe src="https://player.vimeo.com/video/658719416" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Counter Retry Mechanism
-<iframe src="https://player.vimeo.com/video/658734074" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Themes
+<iframe src="https://player.vimeo.com/video/658719588" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Understand Trend
-<iframe src="https://player.vimeo.com/video/658734620" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 zsh zed shell
+<iframe src="https://player.vimeo.com/video/658719631" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Trend Retry Mechanism
-<iframe src="https://player.vimeo.com/video/658735347" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 zsh plugins z st (and more)
+<iframe src="https://player.vimeo.com/video/658719854" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Aliases
+<iframe src="https://player.vimeo.com/video/658720015" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Beyond aliases functions
+<iframe src="https://player.vimeo.com/video/658720113" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
