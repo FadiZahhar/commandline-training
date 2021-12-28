@@ -4,6 +4,112 @@ You can use the [editor on GitHub](https://github.com/FadiZahhar/commandline-tra
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+## 1. Introduction
+
+### 1 Just open the terminal…
+<iframe src="https://player.vimeo.com/video/658716580" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Why use the terminal
+<iframe src="https://player.vimeo.com/video/658716662" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Navigating directories
+<iframe src="https://player.vimeo.com/video/658716762" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Navigation shortcuts
+<iframe src="https://player.vimeo.com/video/658716897" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Microsoft Windows support
+<iframe src="https://player.vimeo.com/video/658716931" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+## 2. Design K6 Performance Test 
+
+### 1 Write Load Test Case in JavaScript
+<iframe src="https://player.vimeo.com/video/658728788" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Random Shots
+<iframe src="https://player.vimeo.com/video/658728899" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Load Virtual Users
+<iframe src="https://player.vimeo.com/video/658728946" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Configure Virtual Users
+<iframe src="https://player.vimeo.com/video/658729159" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Ramp-up Ramp-down User Load
+<iframe src="https://player.vimeo.com/video/658729340" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Random Shots Rampup
+<iframe src="https://player.vimeo.com/video/658729636" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Recap Virtual Users
+<iframe src="https://player.vimeo.com/video/658729751" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+## 3. Checks
+
+### 1 Checks and Asserts
+<iframe src="https://player.vimeo.com/video/658729808" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Multiple Checks
+<iframe src="https://player.vimeo.com/video/658730211" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Error Rate
+<iframe src="https://player.vimeo.com/video/658730948" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Recap Checks
+<iframe src="https://player.vimeo.com/video/658731715" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
+## 4. HTTP API
+
+### 1 Header and JSON
+<iframe src="https://player.vimeo.com/video/658732006" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Response Array
+<iframe src="https://player.vimeo.com/video/658732534" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Data Array
+<iframe src="https://player.vimeo.com/video/658732890" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Post Requests
+<iframe src="https://player.vimeo.com/video/658733303" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+## 5. Performance Test Metrics
+
+### 1 Built-in Metrics
+<iframe src="https://player.vimeo.com/video/658733594" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Design Counter
+<iframe src="https://player.vimeo.com/video/658733904" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Counter Retry Mechanism
+<iframe src="https://player.vimeo.com/video/658734074" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Understand Trend
+<iframe src="https://player.vimeo.com/video/658734620" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Trend Retry Mechanism
+<iframe src="https://player.vimeo.com/video/658735347" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+## 6. Threshold
+
+### 1 Basics of Threshold
+<iframe src="https://player.vimeo.com/video/658735576" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Threshold on Checks
+<iframe src="https://player.vimeo.com/video/658736108" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
