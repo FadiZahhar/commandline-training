@@ -63,19 +63,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 4. HTTP API
+## 4. How (not) to shoot yourself 
 
-### 1 Header and JSON
-<iframe src="https://player.vimeo.com/video/658732006" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Delete all the things
+<iframe src="https://player.vimeo.com/video/658718291" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Response Array
-<iframe src="https://player.vimeo.com/video/658732534" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Super user does…sudo
+<iframe src="https://player.vimeo.com/video/658718448" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Data Array
-<iframe src="https://player.vimeo.com/video/658732890" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Permissions mode & owner
+<iframe src="https://player.vimeo.com/video/658718601" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Post Requests
-<iframe src="https://player.vimeo.com/video/658733303" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Kill kill kill!
+<iframe src="https://player.vimeo.com/video/658718772" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Health checking
+<iframe src="https://player.vimeo.com/video/658719027" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
